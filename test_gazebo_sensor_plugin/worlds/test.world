@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<sdf version="1.4">
+  <!-- <world name="default">
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+    <include>
+      <uri>model://sun</uri>
+    </include>
+    <gui>
+      <camera name='user_camera'>
+        <pose>9.0 3.4 7.5 0.0 0.75 3.1</pose>
+      </camera>
+    </gui>
+  </world> -->
+  <world name="default">
+  <model name="test">
+  <link name="test_link">
+    <sensor name="ray" type="ray">
+      <plugin name="test_sensor" filename="libtest_plugin.so"/>
+    </sensor>
+  </link>
+  </model>
+  </world>
+</sdf>

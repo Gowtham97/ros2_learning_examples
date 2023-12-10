@@ -1,0 +1,41 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/gowtham/workspace/ros/ros2_ws/install/tutorial_interfaces/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/install/turtlesim/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/install/polygon_plugins/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/install/polygon_base/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/install/custom_action_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/another_action_cpp/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/cpp_executor_learn/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/cpp_launch_test/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/cpp_parameter_event_handler/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/cpp_parameters/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/cpp_pubsub/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/cpp_srccli/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/custom_action_cpp/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/custom_action_interfaces/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/learning_tf2_cpp/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/my_cpp_package/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/polygon_base/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/polygon_plugins/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/ros_tutorials/turtlesim/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/test_pkg/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/tutorial_interfaces/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

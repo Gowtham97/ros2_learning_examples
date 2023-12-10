@@ -1,0 +1,60 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/gowtham/workspace/ros/ros2_ws/install/tutorial_interfaces/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/install/turtlesim/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/install/polygon_plugins/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/install/polygon_base/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/install/custom_action_interfaces/include/**",
+        "/home/gowtham/workspace/ros/mbs2_ws/install/nps_uw_multibeam_sonar/include/**",
+        "/home/gowtham/workspace/ros/mbs2_ws/install/environmental_msgs/include/**",
+        "/home/gowtham/workspace/ros/mbs2_ws/install/acoustic_msgs/include/**",
+        "/home/gowtham/workspace/ros/uuv_ws/install/uuv_world_ros_plugins/include/**",
+        "/home/gowtham/workspace/ros/uuv_ws/install/uuv_world_ros_plugins_msgs/include/**",
+        "/home/gowtham/workspace/ros/uuv_ws/install/uuv_world_plugins/include/**",
+        "/home/gowtham/workspace/ros/uuv_ws/install/uuv_thruster_manager/include/**",
+        "/home/gowtham/workspace/ros/uuv_ws/install/uuv_sensor_ros_plugins/include/**",
+        "/home/gowtham/workspace/ros/uuv_ws/install/uuv_sensor_ros_plugins_msgs/include/**",
+        "/home/gowtham/workspace/ros/uuv_ws/install/uuv_gazebo_ros_plugins/include/**",
+        "/home/gowtham/workspace/ros/uuv_ws/install/uuv_gazebo_ros_plugins_msgs/include/**",
+        "/home/gowtham/workspace/ros/uuv_ws/install/uuv_gazebo_plugins/include/**",
+        "/home/gowtham/workspace/ros/uuv_ws/install/uuv_control_msgs/include/**",
+        "/home/gowtham/workspace/ros/uuv_ws/install/uuv_auv_control_allocator/include/**",
+        "/home/gowtham/workspace/ros/uuv_ws/install/nps_uw_multibeam_sonar/include/**",
+        "/home/gowtham/workspace/ros/uuv_ws/install/environmental_msgs/include/**",
+        "/home/gowtham/workspace/ros/uuv_ws/install/acoustic_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/another_action_cpp/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/cpp_executor_learn/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/cpp_launch_test/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/cpp_parameter_event_handler/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/cpp_parameters/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/cpp_pubsub/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/cpp_srccli/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/custom_action_cpp/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/custom_action_interfaces/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/gtest_learn/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/learning_tf2_cpp/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/my_cpp_package/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/plugin_learn/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/polygon_base/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/polygon_plugins/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/ros_tutorials/turtlesim/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/test_pkg/include/**",
+        "/home/gowtham/workspace/ros/ros2_ws/src/tutorial_interfaces/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

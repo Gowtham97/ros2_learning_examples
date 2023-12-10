@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<sdf version="1.4">
+  <world name="default">
+  <model name="test">
+  <link name="test_link">
+    <sensor name="ray" type="ray">
+      <plugin name="hello_world" filename="libhello_world.so"/>
+    </sensor>
+  </link>
+  </model>
+    <!-- <plugin name="hello_world" filename="libhello_world.so"/> -->
+  </world>
+
+</sdf>

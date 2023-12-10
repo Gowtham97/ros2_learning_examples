@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<robot name="test_plugin">
+
+    <link name="test_link">
+      <inertial>
+        <mass value="4.35"/>
+        <pose xyz="0 0 0" rpy="0 0 0"/>
+        <inertia ixx="0.0360" ixy="0" ixz="0" iyy="0" iyz="0" izz="0.0360"/>
+      </inertial>
+    </link>
+    
+    <gazebo reference="test_link">
+        <sensor name="test_sensor" type="ray">
+            <plugin filename="libtest_plugin.so" name="test_sensor_controller"/>
+        </sensor>
+    </gazebo>
+</robot>
